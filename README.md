@@ -24,9 +24,23 @@ Mainly for embedded systems.
 ### Active projects
 
 - [Brython](https://github.com/brython-dev/brython) ★6026 - a way to run Python in the browser through translation to JS
+- [PScript](https://github.com/flexxui/pscript) ★240 -  Python to JavaScript compiler
 - [Transcrypt](http://www.transcrypt.org/) - Python 3.6 to JS precompiler with lean and fast generated code, sourcemaps, built-in minification, optional static type-checking, JSX support
 
 ### Dead projects
 
 - [pyjs](https://github.com/pyjs/pyjs) ★1122 - (formerly Pyjamas) a Python to JS compiler plus Web/GUI framework
 - [Pyjaco](https://github.com/chrivers/pyjaco) ★141 - Similar to Pyjs but more lightweight
+
+
+## Compilers
+
+These compilers usually implement something close to Python, although some compilers may impose restrictions that alter the nature of the language:
+
+- [Nuitka](https://github.com/Nuitka/Nuitka) ★8832 - a Python-to-C++ compiler using libpython at runtime, attempting some compile-time and run-time optimisations. Interacts with CPython runtime.
+
+- [Cython](https://github.com/cython/cython) ★7962 - a widely used optimising Python-to-C compiler, CPython extension module generator, and wrapper language for binding external libraries. Interacts with CPython runtime and supports embedding CPython in stand-alone binaries.
+
+- [Pythran](https://github.com/serge-sans-paille/pythran) ★1895 - Pythran is an ahead of time compiler for a subset of the Python language, with a focus on scientific computing. It takes a Python module annotated with a few interface descriptions and turns it into a native Python module with the same interface, but (hopefully) faster.
+
+- [MyPyC](https://github.com/mypyc/mypyc) ★1486 compiles fully typed Python code to a C extension, based on mypy. (Source code [here](https://github.com/python/mypy/tree/master/mypyc))
