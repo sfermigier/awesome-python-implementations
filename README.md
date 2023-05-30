@@ -2,7 +2,7 @@
 
 ## Mainstream implementations
 
-- [CPython](https://github.com/python/cpython) ★53573 - The reference implementation of Python, written in C.
+- [CPython](https://github.com/python/cpython) ★53574 - The reference implementation of Python, written in C.
 - [PyPy](https://foss.heptapod.net/pypy/pypy) - Python in Python, includes a tracing JIT compiler.
 - [IronPython](https://github.com/IronLanguages/ironpython3) ★2135 - Python in C# for the Common Language Runtime (CLR/.NET).
 - [GraalPython](https://github.com/oracle/graalpython) ★979 - Python in Java, using the Graal just-in-time compiler and the Truffle interpreter implementation framework
@@ -12,7 +12,7 @@
 
 Mainly for embedded systems.
 
-- [Micropython](https://github.com/micropython/micropython) ★16658 - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems 
+- [Micropython](https://github.com/micropython/micropython) ★16658 - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [CircuitPython](https://github.com/adafruit/circuitpython) ★3549 - CircuitPython - a Python implementation for teaching coding with microcontrollers - Fork of MicroPython by Adafruit.
 
 ### Dead projects
@@ -36,6 +36,8 @@ Mainly for embedded systems.
 ## Compilers
 
 These compilers usually implement something close to Python, although some compilers may impose restrictions that alter the nature of the language:
+
+- [Numba](https://github.com/numba/numba) ★8638 - NumPy aware dynamic Python compiler using LLVM
 
 - [Nuitka](https://github.com/Nuitka/Nuitka) ★8832 - a Python-to-C++ compiler using libpython at runtime, attempting some compile-time and run-time optimisations. Interacts with CPython runtime.
 
