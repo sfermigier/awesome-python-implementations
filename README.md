@@ -4,6 +4,7 @@
 
 - [CPython](https://github.com/python/cpython) ★53574 - The reference implementation of Python, written in C.
 - [PyPy](https://foss.heptapod.net/pypy/pypy) - Python in Python, includes a tracing JIT compiler.
+- [RustPython](https://github.com/RustPython/RustPython) ★15051 - Python interpreter written in Rust.
 - [IronPython](https://github.com/IronLanguages/ironpython3) ★2135 - Python in C# for the Common Language Runtime (CLR/.NET).
 - [GraalPython](https://github.com/oracle/graalpython) ★979 - Python in Java, using the Graal just-in-time compiler and the Truffle interpreter implementation framework
 - [Jython](https://github.com/jython/jython) ★867 - Python in Java for the Java platform.
