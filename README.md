@@ -24,9 +24,9 @@ Mainly for embedded systems.
 ### Active projects
 
 - [Brython](https://github.com/brython-dev/brython) ★6026 - a way to run Python in the browser through translation to JS
-- [pyjs](https://github.com/pyjs/pyjs) ★1122 - (formerly Pyjamas) a Python to JS compiler plus Web/GUI framework
 - [Transcrypt](http://www.transcrypt.org/) - Python 3.6 to JS precompiler with lean and fast generated code, sourcemaps, built-in minification, optional static type-checking, JSX support
 
 ### Dead projects
 
+- [pyjs](https://github.com/pyjs/pyjs) ★1122 - (formerly Pyjamas) a Python to JS compiler plus Web/GUI framework
 - [Pyjaco](https://github.com/chrivers/pyjaco) ★141 - Similar to Pyjs but more lightweight
