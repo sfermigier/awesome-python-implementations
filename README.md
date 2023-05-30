@@ -12,8 +12,8 @@
 
 Mainly for embedded systems.
 
-- [Micropython](https://github.com/micropython/micropython) ★16658 - Python for microcontrollers
-- [CircuitPython](https://github.com/adafruit/circuitpython) ★3549 - Python for microcontrollers
+- [Micropython](https://github.com/micropython/micropython) ★16658 - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems 
+- [CircuitPython](https://github.com/adafruit/circuitpython) ★3549 - CircuitPython - a Python implementation for teaching coding with microcontrollers - Fork of MicroPython by Adafruit.
 
 ### Dead projects
 
